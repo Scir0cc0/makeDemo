@@ -2,7 +2,7 @@
 example include file
 */
 
-void myPrintHelloMake(void
+void myPrintHelloMake(void);
 
 /*
 The compilation won't work because I broke something... whoops!
